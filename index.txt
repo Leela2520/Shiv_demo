@@ -1,2 +1,5 @@
 welcome to edureka
+<<<<<<< HEAD
 master branch
+feature branch
+>>>>>>> feature
